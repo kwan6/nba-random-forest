@@ -41,17 +41,12 @@ Tahapan yang diterapkan dalam proyek ini meliputi:
 ---
 
 ## Struktur Berkas
-nba-random-forest-uas/
-
-│
-
-├── modellingUAS.ipynb
-
-├── nba_random_forest_model.pkl
-
-├── all_seasons.csv
-
-└── README.md
+   nba-random-forest-uas/
+   │
+   ├── modellingUAS.ipynb
+   ├── nba_random_forest_model.pkl
+   ├── all_seasons.csv
+   └── README.md   
 
 
 ---
