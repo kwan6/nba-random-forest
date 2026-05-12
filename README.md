@@ -59,7 +59,7 @@ Tahapan yang diterapkan dalam proyek ini meliputi:
 ---
 
 ## Hasil Singkat
-Model Random Forest mampu mengklasifikasikan performa pemain NBA ke dalam tiga kategori performa dengan tingkat akurasi yang tinggi. Analisis lebih lanjut menunjukkan bahwa hasil model dipengaruhi oleh hubungan langsung antara fitur statistik dan proses pembentukan label, sehingga dilakukan langkah pencegahan terhadap *data leakage* dengan menghilangkan variabel tertentu dari fitur input.
+Model Random Forest mampu mengklasifikasikan performa pemain NBA ke dalam tiga kategori performa dengan tingkat akurasi yang tinggi. Analisis lebih lanjut menunjukkan bahwa hasil model dipengaruhi oleh hubungan langsung antara fitur statistik dan proses pembentukan label, sehingga dilakukan langkah pencegahan terhadap data leakage dengan menghilangkan variabel tertentu dari fitur input.
 
 ---
 
